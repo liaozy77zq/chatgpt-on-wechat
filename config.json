@@ -1,7 +1,11 @@
 {
   "channel_type": "wx",
   "model": "",
-  "open_ai_api_key": "YOUR API KEY",
+  "use_azure_chatgpt": true,                                 
+  "open_ai_api_key": "33b8782709974613be2c985847959f61",     
+  "open_ai_api_base":"https://openailiaoxiaoya.openai.azure.com/",
+  "azure_deployment_id": "gpt-35-turbo",                     
+  "azure_api_version": "2023-09-01-preview", 
   "text_to_image": "dall-e-2",
   "voice_to_text": "openai",
   "text_to_voice": "openai",
